@@ -1,43 +1,21 @@
 Mega Project List
 ========
 
-A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
-
-To get started, simply fork this repo.
-
-## [CONTRIBUTING](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md)
-
-See ways of [contributing](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo. You can contribute **solutions** (will be published in this [repo](https://github.com/thekarangoel/Projects-Solutions)) to existing problems, **add new projects** or remove existing ones. Make sure you follow all instructions properly.
-
-
-## [Solutions](https://github.com/thekarangoel/Projects-Solutions)
-
-You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/thekarangoel/Projects-Solutions).
-
-## Credits
-
-This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
-
-Problems are motivated by the ones shared at:
-
-* [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
-* [Rosetta Code](http://rosettacode.org/)
-
 ## Table of Contents
 
-- [Numbers](https://github.com/karan/Projects#numbers)
-- [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
-- [Graph](https://github.com/karan/Projects#graph)
-- [Data Structures](https://github.com/karan/Projects#data-structures)
-- [Text](https://github.com/karan/Projects#text)
-- [Networking](https://github.com/karan/Projects#networking)
-- [Classes](https://github.com/karan/Projects#classes)
-- [Threading](https://github.com/karan/Projects#threading)
-- [Web](https://github.com/karan/Projects#web)
-- [Files](https://github.com/karan/Projects#files)
-- [Databases](https://github.com/karan/Projects#databases)
-- [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Security](https://github.com/karan/Projects#security)
+- [Numbers](https://github.com/JoePlaza/py#numbers)
+- [Classic Algorithms](https://github.com/JoePlaza/py#classic-algorithms)
+- [Graph](https://github.com/JoePlaza/py#graph)
+- [Data Structures](https://github.com/JoePlaza/py#data-structures)
+- [Text](https://github.com/JoePlaza/py#text)
+- [Networking](https://github.com/JoePlaza/py#networking)
+- [Classes](https://github.com/JoePlaza/py#classes)
+- [Threading](https://github.com/JoePlaza/py#threading)
+- [Web](https://github.com/JoePlaza/py#web)
+- [Files](https://github.com/JoePlaza/Projects#files)
+- [Databases](https://github.com/JoePlaza/Projects#databases)
+- [Graphics and Multimedia](https://github.com/JoePlaza/Projects#graphics-and-multimedia)
+- [Security](https://github.com/JoePlaza/Projects#security)
 
 Numbers
 ---------
